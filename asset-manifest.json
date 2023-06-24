@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/learn-it/static/css/main.b5e82c2d.css",
+    "main.js": "/learn-it/static/js/main.70d02518.js",
+    "static/media/klarna-logo.png": "/learn-it/static/media/klarna-logo.8804d65d6eb21b06d1f9.png",
+    "static/media/trust-pilot-img.png": "/learn-it/static/media/trust-pilot-img.ffb3e0dd60bc36ef417b.png",
+    "static/media/chance-img.svg": "/learn-it/static/media/chance-img.38cf5b76b80f61f387b86963a6ec4f7e.svg",
+    "static/media/support-img.svg": "/learn-it/static/media/support-img.319e4a6a25cac0eb6fcd533cb7e8591a.svg",
+    "static/media/money-img.svg": "/learn-it/static/media/money-img.bb2dab5b8f8fddd25f360d530bf741a6.svg",
+    "static/media/career-img.svg": "/learn-it/static/media/career-img.0829a3cc80f156602c5036ae2b5d92ea.svg",
+    "static/media/time-img.svg": "/learn-it/static/media/time-img.f94a6efea5a07e0c81defcb479beb20f.svg",
+    "static/media/knowledge-img.svg": "/learn-it/static/media/knowledge-img.a02c16771c1e6a7cb9fd0ba7cee6395b.svg",
+    "index.html": "/learn-it/index.html",
+    "main.b5e82c2d.css.map": "/learn-it/static/css/main.b5e82c2d.css.map",
+    "main.70d02518.js.map": "/learn-it/static/js/main.70d02518.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5e82c2d.css",
+    "static/js/main.70d02518.js"
+  ]
+}

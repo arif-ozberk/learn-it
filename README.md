@@ -1,7 +1,7 @@
 # Learn.it
 Github crashes on page refresh. Still working on it but don't know if it is a problem about my code or a problem about github pages.
 
-Clone and inspiration website from the original page [Knowadays](https://knowadays.com). Not only a landing page but a full website with product, about us pages and more. Each prudct data uniquely imported from json files and used for better user experince.
+Clone and inspiration website from the original page [Knowadays](https://knowadays.com). Not only a landing page but a full website with product, about us pages and more. Each product data uniquely imported from json files and used for better user experince.
 
 Built with:
 - ReactJS

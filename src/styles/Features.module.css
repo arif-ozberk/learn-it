@@ -1,0 +1,86 @@
+.featuresContainer {
+    margin-bottom: 9rem;
+}
+
+.featuresSmallHeading {
+    margin-bottom: 2rem;
+}
+
+.featuresContainer a {
+    margin-bottom: 5rem;
+}
+
+.contextContainer {
+    display: flex;
+    justify-content: space-between;
+    row-gap: 8em;
+    flex-wrap: wrap;
+}
+
+.context {
+    width: 30%;
+}
+
+.context p {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: var(--ice);
+    margin-top: 3rem;
+}
+
+.context img {
+    width: 100%;
+    height: 220px;
+}
+
+@media(max-width: 1260px) {
+    .context {
+        width: 40%;
+    }
+}
+
+@media(max-width: 960px) {
+    .context img {
+        height: 150px;
+    }
+
+    .context p {
+        font-size: 1.1rem;
+    }
+}
+
+@media(max-width: 650px) {
+    .context {
+        width: 45%;
+    }
+}
+
+@media(max-width: 560px) {
+    .context {
+        width: 60%;
+        text-align: center;
+    }
+
+    .contextContainer {
+        justify-content: center;
+        row-gap: 5rem;
+    }
+
+    .featuresContainer a {
+        margin-bottom: 3rem;
+    }
+
+    .context p {
+        margin-top: 2rem;
+    }
+}
+
+@media(max-width: 425px) {
+    .context {
+        width: 100%;
+    }
+
+    .context p {
+        font-size: 1rem;
+    }
+}

@@ -1,0 +1,244 @@
+{
+    "courses": {
+        "proofreader": {
+            "courseTitle": "Becoming A Proofreader",
+            "price": 399,
+            "specs": [
+                "Guaranteed work with our partner.", 
+                "Your path from beginner to confident trained professional",
+                "Invest in yourself and start a flexible new career",
+                "One-on-one support from friendly, expert tutors",
+                "Join hundreds of happy learners living a new lifestyle"
+            ],
+            "courseImage": "https://images.unsplash.com/photo-1543269664-02e941c052f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "about": "Do you obsess over grammar and love perfect punctuation? If so, Becoming A Proofreader is the perfect way to refine your skills, invest in yourself, and start a fulfilling new career. Now’s the time to take the leap, gain experience, and start your journey towards rewarding work that’s flexible to fit your lifestyle.",
+            "guaranteedWork": "Learners who pass Becoming A Proofreader with distinction (80% or over) gain the opportunity to work with Proofed on a trial basis. Once you’ve successfully completed 20 documents and passed the trial, you can begin working with Proofed as a full-fledged freelance proofreader. This means you don’t have to spend weeks searching for your first client and can begin earning in your new career as soon as possible!",
+            "included": "Becoming A Proofreader is an expertly devised and a fully assessed comprehensive 13-module course. It guides you step by step as you build your skills through practical tasks. Learn about common mistakes, working to style guides, and the nuances of proofreading all types of writing – from creative to business and academic.",
+            "gain": [
+                "Professional proofreading skills",
+                "Confidence in finding common spelling, grammar, and punctuation mistakes",
+                "The ability to proofread according to style guides",
+                "Insight into working with clients and authors",
+                "An understanding of working as a freelance proofreader"
+            ],
+            "curriculum": [
+                {
+                    "moduleTitle": "Module 1: An Introduction To Becoming A Proofreader",
+                    "moduleInfo": "Know what to expect from our Becoming A Proofreader course and get situated before delving into the details of what it means to be a proofreader."
+                },
+                {
+                    "moduleTitle": "Module 2: Proofreading And Editing",
+                    "moduleInfo": "Find out why editing and proofreading have traditionally been treated as separate tasks in print publishing, as well as how they often merge in digital work. Get to grips with the ethical issues you might encounter while proofreading. And meet the different client types you might work with once you start your career as a professional proofreader!"
+                },
+                {
+                    "moduleTitle": "Module 3: The Basics Of Microsoft Word",
+                    "moduleInfo": "If you’re a bit rusty on computing, this module will oil you up! Take a tour through all the tools in Microsoft Word you’ll need to get started with proofreading. If you are a technophobe, worry no more! Our back-to-basics course covers tracking changes, changing the proofing language, setting your user name in Microsoft Word, and more."
+                },
+                {
+                    "moduleTitle": "Module 4: Common Spelling Mistakes",
+                    "moduleInfo": "Finally, you can nail the difference between ‘there’, ‘they’re’, and ‘their’, and much more. Get to grips with British, US, and Australian spelling, clear up the rules about irregular plurals, and impress friends with your knowledge of closed, open, and hyphenated compounds!"
+                },
+                {
+                    "moduleTitle": "Module 5: Common Grammar Mistakes",
+                    "moduleInfo": "Perfect your prepositions, parenthetical clauses, and parallelism! Fix fragments and faulty agreement! And free yourself from dangling and misplaced modifiers forevermore! Grind down the grammatical gremlins of UK, US, and Australian English, and bust some well-worn myths as you boldly go where no non-proofreader has gone before!"
+                },
+                {
+                    "moduleTitle": "Module 6: Common Punctuation Mistakes",
+                    "moduleInfo": "Queries about question marks? Extremely excited about exclamation points?!! Do you, put, too, many commas, in your sentences? We’ll iron all that out. If you’re the type who goes shopping with a paintbrush to correct grocer’s apostrophes, you’ll be right at home here."
+                },
+                {
+                    "moduleTitle": "Module 7: Other Common Errors",
+                    "moduleInfo": "Take our guided tour through everything else you need to know about the nitty-gritty of language, including Latin terms, abbreviations, acronyms and initialisms, number use, and capitalisation. Find out where most people trip up and separate your ‘i.e.’s from your ‘e.g.’s for good!"
+                },
+                {
+                    "moduleTitle": "Module 8: Proofreading In Practice: Style",
+                    "moduleInfo": "What’s the difference between a style guide, a style sheet, and a referencing style? Worry no more, we’ve got you covered in our style module. We’ll also talk you through written tone, technical jargon, avoiding offensive language, and how to turn clunky confusion into elegant flow."
+                },
+                {
+                    "moduleTitle": "Module 9: Academic Proofreading",
+                    "moduleInfo": "We’ll take you back to school with an in-depth look at proofreading academic documents, ranging from undergraduate essays to journal articles and PhD theses. We’ll show you how to work with LaTeX (no, it’s nothing kinky), how to make sure quotes are used properly, when the active and passive voices are appropriate in academic writing, and much more."
+                },
+                {
+                    "moduleTitle": "Module 10: Academic Proofreading: Referencing And Citations",
+                    "moduleInfo": "Does Harvard hurt your head? Does APA make your eyes ache? Are you shy about Chicago? And what does ALWD even mean? We’ll soothe all your referencing woes with our extended guide to some of the major citation styles, as well as some not-so-well-known ones."
+                },
+                {
+                    "moduleTitle": "Module 11: Creative Writing And The Publishing Industry",
+                    "moduleInfo": "Learn how to work with authors and publishers as we guide you through how to proofread creative writing. This module looks at both fiction and non-fiction, as well as non-standard English, authorial voice, and proofreading dialogue. After completing the lessons, you will be primed to proofread a range of different writing styles and document types common in the publishing world, including book manuscripts, screenplays, and PDF page proofs."
+                },
+                {
+                    "moduleTitle": "Module 12: Proofreading Business Writing",
+                    "moduleInfo": "Here, we teach you how to proofread for different business clients. We take you through working with brand voices and understanding how grammatical point of view works in different types of business writing. After completing this module, you will know how to proofread many document types and formats common to business writing, including formal reports, website copy, Excel spreadsheets, PowerPoint presentations, and Google Docs."
+                },
+                {
+                    "moduleTitle": "Module 13: Finding Work And The Final Assignment",
+                    "moduleInfo": "Drum roll, please! It’s time to show off what you have learned! In this final part of the course, you'll learn about how to find work as a freelance proofreader. We'll guide you through top revision areas and provide you with a practice mock assignment. Then you’ll take two proofreading tests on which you’ll receive detailed tutor feedback. If you score 80% or above, you will be offered the opportunity to undertake a trial as a freelance proofreader with Proofed."
+                }
+            ]
+        },
+
+        "editor": {
+            "courseTitle": "Becoming An Editor",
+            "price": 349,
+            "specs": [
+                "Build your skills and confidence",
+                "One-on-one coaching from friendly, expert tutors",
+                "Specialise in work you enjoy",
+                "Gain the ability to charge higher rates",
+                "Take your freelance career to the next level"
+            ],
+            "courseImage": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80",
+            "about": "Becoming An Editor is a comprehensive course designed by industry insiders to help you build the skills needed to work as a professional editor. Whether collaborating on engaging creative documents with authors and publishers, supporting academic research, or helping businesses hone their message, we’ve got you covered!",
+            "guaranteedWork": "Although completion of our Becoming A Proofreader course is not a prerequisite for Becoming An Editor, we strongly recommend it. When you pass our Becoming A Proofreader course with a distinction (80% or more), you’ll have the chance to work with our partner company, Proofed, initially on a trial basis. As a graduate of both courses, you’ll have a wide range of editing techniques for working with a broad client base. And you’ll still get to enjoy the complete freedom and flexibility that freelancing brings.",
+            "included": "Develop your confidence and expertise as you progress through the course. You’ll become a well-rounded editor ready to tackle wide-ranging and complex projects. Whether you’re a complete beginner looking to kick-start a flexible new career or an experienced professional wanting to expand your existing skills, Becoming An Editor has everything you need.",
+            "gain": [
+                "Line editing to refine documents at a line and paragraph level",
+                "Developmental and comprehensive editing, covering structure, content, and style",
+                "How to work with academic clients on scholarly writing",
+                "How to edit creative fiction and non-fiction",
+                "How to work with business clients, formal business writing, and commercial copy"
+            ],
+            "curriculum": [
+                {
+                    "moduleTitle": "Module 1: An Introduction To Becoming An Editor",
+                    "moduleInfo": "Know what to expect from our Becoming An Editor course and get situated before delving into the details of what it means to be an editor."
+                },
+                {
+                    "moduleTitle": "Module 2: Understanding Editing",
+                    "moduleInfo": "We’ll cover different editing styles, what this entails, and various client types. Find out what goes into planning and executing an editing project – from negotiating a client brief to providing feedback."
+                },
+                {
+                    "moduleTitle": "Module 3: Line And Comprehensive Editing",
+                    "moduleInfo": "Discover the difference between line editing, copy editing and proofreading. Learn about developmental and comprehensive editing. Sharpen your skills with lessons on structure, content and style."
+                },
+                {
+                    "moduleTitle": "Module 4: Editing Academic Writing",
+                    "moduleInfo": "Know what to expect from academic publishers and authors, and determine the differences in tone between sciences and the humanities. Recognise structure, how to clarify arguments and enhance a scholarly tone."
+                },
+                {
+                    "moduleTitle": "Module 5: Editing Creative Writing",
+                    "moduleInfo": "Here, we’ll focus on fiction and non-fiction. Anticipate what to expect when working with publishers and authors. Learn how a manuscript is structured and understand the basics of narrative theory, such as plotting a story or character development. And explore how the creative genre can affect various writing techniques – from romantic tales to self-help guides."
+                },
+                {
+                    "moduleTitle": "Module 6: Editing Business Writing",
+                    "moduleInfo": "Uncover everything you need to know to work on marketing materials and other commercial copy. Study the conventions of formal and technical business writing. And learn how business copy can use persuasive writing techniques."
+                },
+                {
+                    "moduleTitle": "Module 7: The Final Assignment",
+                    "moduleInfo": "It’s time to put your editing skills to the test! Select your final assignment type: academic, business or creative. When you’re finished, your assignment will be assessed, and you’ll be invited to book a face-to-face feedback call with our friendly expert tutor."
+                }
+            ]
+        },
+
+        "communication": {
+            "courseTitle": "Communication Success",
+            "price": 299,
+            "specs": [
+                "Develop and deliver a five-minute talk",
+                "Online communication coaching from an industry expert",
+                "Improve your presentation skills",
+                "Gain confidence in public speaking",
+                "Created by Kennedy Speech Communications. Powered by Learn.it"
+            ],
+            "courseImage": "https://images.unsplash.com/photo-1594122230689-45899d9e6f69?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "about": "In this course, you’ll work through four modules, each containing a series of informative videos, valuable resources, and your very own Toolkit to develop and deliver a five-minute talk on the topic of your choice. You’ll gain a new perspective on every communication opportunity, whether a speech, presentation or conversation, and learn the fundamentals of the Communication Success approach. When you’ve completed the course, you’ll have a repeatable process to use for your future talks and the tools you need to achieve greater results from every communication opportunity.",
+            "guaranteedWork": "Cliff Kennedy, president of Kennedy Speech Communications, is a communication coach with over 30 years of success in creating audience-connecting experiences for many of the world’s highest performing organizations. In this course, he shares his proven approaches to developing engaging content and speaking with authenticity, clarity, and confidence.",
+            "included": "Communication Success: Beginnings is for everyone. Whether you’re a seasoned communicator or just starting out in your career, you will discover new ideas and techniques for creating a process of continuous performance improvement.",
+            "gain": [
+                "Effectively and efficiently prepare for communication opportunities.",
+                "Speak with confidence and authenticity.",
+                "Communicate messages clearly and concisely.",
+                "Engage more deeply with their audience.",
+                "Achieve a positive Return on Communication Opportunity (RCO) by not just delivering a talk, but by delivering something of value."
+            ],
+            "curriculum": [
+                {
+                    "moduleTitle": "Module 1: Foundations",
+                    "moduleInfo": "Reflect on your reasons for taking the Communication Success: Beginnings course by exploring your strengths and weaknesses as a communicator. Learn proven strategies to build on your current skill set. Meet your Communications Success coach, Cliff Kennedy. Get to work determining a topic for your talk that really matters to your audience. And define the purpose of your talk, your “why?”"
+                },
+                {
+                    "moduleTitle": "Module 2: Creation",
+                    "moduleInfo": "Outline your strategy for a successful talk by learning effective planning practices. Learn the necessary insights to create the engaging, empowering and energizing messages that you will deliver to your audiences. And understand how to create powerful experiences that your audience will remember."
+                },
+                {
+                    "moduleTitle": "Module 3: Preparation",
+                    "moduleInfo": "Practice the fundamentals of great script writing under the guidance of your communication coach. Combine your words with engaging visuals that support you in delivering value to your audience. And get ready for showtime by learning trusted rehearsal techniques to effectively practice your talk."
+                },
+                {
+                    "moduleTitle": "Module 4: Execution",
+                    "moduleInfo": "Learn how to prepare yourself in the final moments before you speak. Gain the confidence you need to deliver a successful talk. Develop a comprehensive method for self evaluation to effectively learn from every talk. And consolidate what you have learned throughout Communication Success: Beginnings."
+                }
+            ]
+        },
+
+        "formatting": {
+            "courseTitle": "Formatting In Microsoft Word",
+            "price": "499",
+            "specs": [
+                "Learn to format documents professionally",
+                "Become fully proficient with Microsoft Word",
+                "Enhance the readability and design of documents",
+                "Develop your skill set and further your career",
+                "Increase your range of services as a freelancer"
+            ],
+            "courseImage": "https://images.unsplash.com/photo-1543270123-5b5c73132cdf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "about": "Whatever your area of expertise, if you work in Microsoft Word, this course will ensure each document you produce looks professional. What’s more, by taking this course, you’ll be prepared to offer formatting services to potential clients. So, if you’re a freelance proofreader or editor aiming to expand your services, or just a professional looking to take your documents to the next level, this course is designed for you. And with lifetime access to the course material, you’ll always have a handy guide you can refer back to throughout your career.",
+            "guaranteedWork": "As with all our courses, Formatting In Microsoft Word is designed to fit your life. You can work on the 11 modules on your own time and at your own pace. As you follow along with straightforward instructions and videos, work through practical tasks, and complete a final self-evaluated project, you will develop the expertise to be a skilled formatter.",
+            "included": "The course features over 30 lessons on formatting and Word functionality, taking you step-by-step through key tasks for formatting a document. Text instructions, images, and many demonstration videos offer a variety of ways to access the tools you need to put your new skills into practice with more than 15 formatting exercises.",
+            "gain": [
+                "30 hours of lessons to develop your proficiency in using Word’s formatting tools",
+                "Lifetime access to refresh your knowledge whenever needed",
+                "A variety of formatting tasks to practice working with Word’s formatting tools",
+                "A self-assessed final project to help you consolidate your progress",
+                "Step-by-step instructions and video tutorials on Word’s formatting functions",
+                "An efficient formatting workflow to produce professionally formatted documents"
+            ],
+            "curriculum": [
+                {
+                    "moduleTitle": "Module 1: Introduction",
+                    "moduleInfo": "We will introduce the course and what formatting is. We will also provide an overview of how to navigate the course, along with a quick refresher on Word’s user interface."
+                },
+                {
+                    "moduleTitle": "Module 2: Basic Text Formatting",
+                    "moduleInfo": "We will review the most frequently used formatting features found in Word. We’ll look at formatting tools from fonts and paragraph editing to page-display settings as well as some other features, including how to replicate formatting or clear it when necessary."
+                },
+                {
+                    "moduleTitle": "Module 3: Using Styles",
+                    "moduleInfo": "Styles are pre-set combinations of formatting characteristics that allow you to quickly change how text appears in the document. They are an essential tool for efficiency in the formatting workflow process and for ensuring consistency throughout an entire document."
+                },
+                {
+                    "moduleTitle": "Module 4: Page And Section Breaks",
+                    "moduleInfo": "We cover the use of page and section break tools, a key aspect of document layout. The proper application of page and section breaks ensures that text appears where you want it. Breaks also impact the application of numbering for both pages and headings. We include a lesson on columns here as well because section breaks are key to the smooth flow of text in columns."
+                },
+                {
+                    "moduleTitle": "Module 5: Headers, Footers, And Page Numbering",
+                    "moduleInfo": "Adding page numbers to a document is quite easy! In this module, we’ll go over the basics as well as options. We’ll also prepare you for more advanced numbering by diving into creating headers and footers and adding chapter numbers that also appear in the header."
+                },
+                {
+                    "moduleTitle": "Module 6: Creating Lists And Working With Tables",
+                    "moduleInfo": "In this module, we show you how to create bulleted, numbered, and multilevel lists. You’ll also learn about working with tables in Word, including how to customise table designs, insert formulas, and resolve common display issues related to lists and tables."
+                },
+                {
+                    "moduleTitle": "Module 7: Working With Graphic Tools And Labels",
+                    "moduleInfo": "This module shows you how to insert images into documents and make them play nicely with each other and the text. We’ll also go through the process of adding captions and labels to images, figures and tables, including section or chapter numbers. These skills can help you create visually appealing and professional documents."
+                },
+                {
+                    "moduleTitle": "Module 8: Formatting Tables",
+                    "moduleInfo": "This module explains how to create a table of contents and lists of tables and figures using the built-in functionality of Word. You’ll learn how to format headings correctly so they appear in the table of contents and how to update these lists as your document changes."
+                },
+                {
+                    "moduleTitle": "Module 9: Working With Themes And Macros",
+                    "moduleInfo": "In this module, we’ll introduce you to some advanced tools to automate repetitive tasks and how to use and create custom themes to give documents a unique look."
+                },
+                {
+                    "moduleTitle": "Module 10: Formatting References",
+                    "moduleInfo": "Citations, references, and bibliographies can be daunting tasks. This module breaks them down into manageable pieces. You’ll learn how to insert and format citations and references for popular referencing styles, as well as how to add endnotes, footnotes, cross-references, and indexes."
+                },
+                {
+                    "moduleTitle": "Module 11: Final Formatting Project",
+                    "moduleInfo": "In this module, you’ll apply the skills and knowledge gained throughout the course to complete a final formatting project. This project will let you combine the skills presented throughout the course as you test your proficiency in formatting a professional document in a self-assessment task."
+                }
+            ]
+        }
+    }
+}

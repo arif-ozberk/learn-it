@@ -1,0 +1,66 @@
+.aboutUsPage {
+    padding-top: 12rem;
+}
+
+.aboutUsContext {
+    padding-bottom: 2rem;
+}
+
+.aboutUsContext img {
+    width: 100%;
+    margin: 5rem 0;
+    height: 600px;
+    object-fit: cover;
+    border-radius: 6px;
+    filter: brightness(0.8);
+}
+
+.aboutUsContext h3 {
+    color: var(--white);
+    border-bottom: 1px solid var(--white);
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 1.5rem;
+}
+
+.aboutUsContext p {
+    margin-bottom: 3rem;
+    font-size: 1.1rem;
+    color: var(--ice);
+    line-height: 1.4;
+}
+
+
+@media(max-width: 1024px) {
+    .aboutUsContext img {
+        height: 400px;
+        margin: 3rem 0;
+    }
+}
+
+@media(max-width: 768px) {
+    .aboutUsPage {
+        padding-top: 9rem;
+    }
+}
+
+@media(max-width: 620px) {
+    .aboutUsContext h3 {
+        font-size: 1.5rem;
+    }
+
+    .aboutUsContext p {
+        font-size: 1rem;
+    }
+}
+
+@media(max-width: 425px) {
+    .aboutUsContext h3 {
+        font-size: 1.3rem;
+    }
+
+    .aboutUsContext p {
+        font-size: 0.9rem;
+    }
+}
+

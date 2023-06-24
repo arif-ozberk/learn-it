@@ -1,0 +1,221 @@
+.courseCard {
+    border-radius: 6px;
+    overflow: hidden;
+    width: 45%;
+    height: 650px;
+    position: relative;
+    cursor: pointer;
+}
+
+.cardTop {
+    height: 70%;
+    position: relative;
+}
+
+.cardTop img {
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    height: 100%;
+    filter: brightness(0.7);
+    z-index: 2;
+}
+
+.cardTop h1 {
+    z-index: 3;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: 400;
+    font-size: 3rem;
+    text-align: center;
+    color: var(--ice);
+}
+
+.cardBottom {
+    background-color: var(--ice);
+    height: 30%;
+    z-index: 3;
+    position: relative;
+    color: var(--dark-green);
+    padding: 1rem 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    row-gap: 2rem;
+    transition: background-color 0.3s ease;
+}
+
+.rowTop {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rowTop h2 {
+    font-size: 1.8rem;
+    font-weight: 500;
+}
+
+.courseButtons {
+    display: flex;
+    column-gap: 1.5rem;
+}
+
+.courseButtons a {
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 500;
+    width: 140px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    transition: border-radius 0.2s ease;
+}
+
+.learnMoreButton {
+    border: 1px solid var(--dark-green);
+    color: var(--dark-green);
+}
+
+.buyNowButton {
+    background-color: var(--dark-green);
+    color: var(--ice);
+}
+
+.courseButtons a:hover {
+    border-radius: 10px;
+}
+
+.cardBottom p {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.cardBottom p img {
+    height: 0.9rem;
+    margin-left: 5px;
+}
+
+
+/* ? ****************Animations**************** */
+
+.courseCard:hover .cardBottom {
+    background-color: var(--light-blue);
+}
+
+.hoverAnimation {
+    position: absolute;
+    bottom: 30%;
+    z-index: 5;
+    padding: 4rem 3rem;
+    background-color: var(--light-blue);
+    height: 0;
+    width: 100%;
+    opacity: 0;
+    transition: height 0.2s ease, opacity 0.2s ease;
+}
+
+.courseCard:hover .hoverAnimation {
+    height: 70%;
+    opacity: 1;
+}
+
+.hoverAnimation h1 {
+    color: var(--dark-green);
+    font-weight: 500;
+    font-size: 3rem;
+    width: 70%;
+    margin-bottom: 1.3rem;
+}
+
+.hoverAnimation ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.6rem;
+    color: var(--dark-green);
+}
+
+.hoverAnimation ul i {
+    margin: 0 5px 0 4px;
+}
+
+
+/* ****************Media Queries**************** */
+
+@media(max-width: 1250px) {
+    .courseCard {
+        height: 500px;
+        width: 100%;
+    }
+}
+
+@media(max-width: 650px) {
+    .hoverAnimation h1 {
+        font-size: 2rem;
+    }
+
+    .hoverAnimation {
+        padding: 1rem 2rem;
+    }
+}
+
+@media(max-width: 540px) {
+    .cardTop h1 {
+        font-size: 2.2rem;
+    }
+
+    .cardBottom {
+        padding: 0 1rem;
+    }
+
+    .courseButtons {
+        column-gap: 0.5rem;
+    }
+}
+
+@media(max-width: 450px) {
+    .courseCard {
+        height: 550px;
+    }
+
+    .courseButtons {
+        flex-direction: column;
+        row-gap: 1rem;
+    }
+
+    .cardTop {
+        height: 65%;
+    }
+
+    .cardTop h1 {
+        font-size: 1.8rem;
+        width: 100%;
+    }
+
+    .cardBottom {
+        height: 35%;
+    }
+
+    .hoverAnimation {
+        bottom: 35%;
+    }
+
+    .courseCard:hover .hoverAnimation {
+        height: 65%;
+    }
+
+    .hoverAnimation ul li {
+        font-size: 0.9rem;
+    }
+
+    .hoverAnimation h1 {
+        font-size: 1.8rem;
+        width: 100%;
+    }
+}

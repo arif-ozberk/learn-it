@@ -1,0 +1,15 @@
+.storiesPageContainer {
+    padding-top: 7rem;
+}
+
+.storiesMainHeading {
+    margin: 5rem 0 3rem;
+}
+
+.storyContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 3rem;
+    margin: 5rem auto 5rem;
+}

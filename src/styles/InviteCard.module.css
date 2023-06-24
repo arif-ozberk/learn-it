@@ -1,0 +1,100 @@
+.inviteCardContainer {
+    height: 500px;
+    background-color: var(--yellow);
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: var(--dark-green);
+    cursor: pointer;
+    margin-bottom: 5rem;
+}
+
+.inviteCardContainer:hover i {
+    transform: translateY(12px);
+}
+
+.inviteCardContainer:hover h1 {
+    scale: 1.1;
+}
+
+.inviteCardContainer i {
+    font-size: 5rem;
+    margin-bottom: 1rem;
+    transition: transform 0.2s ease;
+}
+
+.inviteCardContainer h1 {
+    font-size: 5rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
+    transition: scale 0.2s ease;
+}
+
+.inviteCardContainer p {
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+}
+
+.inviteCardContainer a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--dark-green);
+    width: 150px;
+    height: 45px;
+    border-radius: 25px;
+    color: var(--yellow);
+    transition: border-radius 0.2s ease;
+}
+
+.inviteCardContainer a:hover {
+    border-radius: 10px;
+}
+
+@media(max-width: 950px) {
+    .inviteCardContainer h1 {
+        font-size: 4rem;
+    }
+
+    .inviteCardContainer p {
+        font-size: 1.2rem;
+    }
+
+    .inviteCardContainer i {
+        font-size: 4rem;
+    }
+}
+
+@media(max-width: 720px) {
+    .inviteCardContainer {
+        height: fit-content;
+        padding: 3rem 1rem;
+        text-align: center;
+    }
+
+    .inviteCardContainer h1 {
+        font-size: 8vw;
+        margin-bottom: 1rem;
+    }
+
+    .inviteCardContainer p {
+        font-size: 1rem;
+    }
+}
+
+@media(max-width: 510px) {
+    .inviteCardContainer p {
+        font-size: 0.8rem;
+    }
+
+    .inviteCardContainer i {
+        font-size: 3rem;
+    }
+
+    .inviteCardContainer {
+        padding: 2.5rem 1rem;
+    }
+}

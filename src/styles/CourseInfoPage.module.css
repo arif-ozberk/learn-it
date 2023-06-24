@@ -1,0 +1,500 @@
+.CourseInfoPageContainer {
+    padding-top: 12rem;
+    height: fit-content;
+}
+
+
+/* ? ***********************Course Card*********************** */
+
+.courseCard {
+    display: flex;
+    background-color: var(--light-blue);
+    height: 550px;
+    border-radius: 6px;
+    overflow: hidden;
+    margin-bottom: 6rem;
+}
+
+.cardContext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: var(--dark-green);
+    padding: 1rem 2.5rem;
+}
+
+.cardContext h1 {
+    font-size: 3rem;
+    font-weight: 500;
+    width: 70%;
+    margin-bottom: 2rem;
+}
+
+.cardContext ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.5rem;
+    margin-bottom: 3rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.cardContext ul li i {
+    margin: 0 5px 0 4px;
+}
+
+.pricingContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pricingContainer button {
+    width: 50%;
+    height: 50px;
+    background-color: var(--dark-green);
+    color: var(--light-blue);
+    font-size: 1.2rem;
+    font-weight: 500;
+    outline: none;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: border-radius 0.2s ease;
+}
+
+.pricingContainer button:hover {
+    border-radius: 10px;
+}
+
+.pricingContainer p {
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+
+.courseCard img {
+    flex: 1;
+    width: 50%;
+    object-fit: cover;
+    object-position: center;
+}
+
+
+/* ? ***********************Course Context*********************** */
+
+.infoContext {
+    display: flex;
+    justify-content: space-between;
+    color: var(--ice);
+    padding-bottom: 6rem;
+}
+
+.infoContext p {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    margin-bottom: 4rem;
+}
+
+.infoContext h1 {
+    margin-bottom: 2rem;
+}
+
+.contextLeft {
+    width: 40%;
+}
+
+.contextButtons {
+    display: flex;
+    column-gap: 2rem;
+}
+
+.contextButtons button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    font-size: 1.1rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: border-radius 0.2s ease;
+}
+
+.contextButtons button:hover {
+    border-radius: 10px;
+}
+
+.contextButtons button:nth-child(1) {
+    border: none;
+    background-color: var(--light-blue);
+    color: var(--dark-green);
+}
+
+.contextButtons button:nth-child(2) {
+    border: 1px solid var(--light-blue);
+    background-color: transparent;
+    color: var(--light-blue);
+}
+
+.contextRight {
+    width: 40%;
+}
+
+.contextRight h2 {
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-bottom: 1.5rem;
+}
+
+.contextRight ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.5rem;
+    font-size: 1rem;
+}
+
+.contextRight ul li i {
+    margin-right: 5px;
+    color: var(--light-blue);
+}
+
+
+/* ? ***********************Bundle Banner*********************** */
+
+.infoContainerBanner {
+    background-color: var(--light-blue);
+    color: var(--dark-green);
+    height: fit-content;
+    padding: 3rem 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 6rem;
+    border-radius: 6px;
+}
+
+.infoContainerBanner h1 {
+    font-size: 4rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+}
+
+.infoContainerBanner h2 {
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
+}
+
+.infoContainerBanner p {
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-bottom: 1.5rem;
+}
+
+.infoContainerBanner p img {
+    height: 0.9rem;
+    margin-left: 5px;
+}
+
+.bundlePricing {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bundlePricing button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    width: 20%;
+    height: 50px;
+    border-radius: 30px;
+    border: none;
+    font-size: 1.1rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: border-radius 0.2s ease;
+    background-color: var(--dark-green);
+    color: var(--light-blue);
+}
+
+.bundlePricing button:hover {
+    border-radius: 10px;
+}
+
+.bundlePricing h3 {
+    font-size: 3.5rem;
+    font-weight: 500;
+    display: flex;
+    column-gap: 2rem;
+}
+
+.bundlePricing h3 span {
+    text-decoration: line-through;
+    opacity: 0.6;
+}
+
+
+/* ? ***********************Curriculum Section*********************** */
+
+.curriculumContainer {
+    padding-bottom: 6rem;
+}
+
+.curriculumHeading {
+    margin-bottom: 3rem;
+}
+
+.modulesContainer {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2.5rem;
+}
+
+.module {
+    border-bottom: 1px solid var(--light-blue);
+}
+
+.moduleTitle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--ice);
+    margin-bottom: 2rem;
+}
+
+.moduleTitle h2 {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.moduleTitle i {
+    cursor: pointer;
+    color: var(--light-blue);
+    transition: transform 0.2s ease;
+}
+
+.moduleInfo {
+    width: 50%;
+    color: var(--ice);
+    padding: 1rem 0 3rem 0;
+    line-height: 1.4;
+    display: none;
+}
+
+.moduleInfoActive {
+    display: flex;
+}
+
+.chevronActive {
+    transform: rotateX(180deg);
+}
+
+
+
+/* ! ***********************Media Queries*********************** */
+
+@media(max-width: 1350px) {
+    .contextLeft, .contextRight {
+        width: 45%;
+    }
+}
+
+@media(max-width: 1140px) {
+    .cardContext h1 {
+        width: 100%;
+    }
+
+    .infoContainerBanner h1 {
+        font-size: 3rem;
+    }
+
+    .infoContainerBanner h2 {
+        font-size: 1rem;
+    }
+
+    .bundlePricing h3 {
+        font-size: 3rem;
+    }
+
+    .bundlePricing button {
+        width: 40%;
+    }
+}
+
+@media(max-width: 1024px) {
+    .moduleTitle h2 {
+        font-size: 1.3rem;
+    }
+
+    .moduleInfo {
+        width: 80%;
+    }
+}
+
+@media(max-width: 970px) {
+    .cardContext h1 {
+        font-size: 2.5rem;
+    }
+
+    .cardContext ul {
+        font-size: 0.9rem;
+    }
+
+    .pricingContainer button {
+        width: 70%;
+    }
+}
+
+@media(max-width: 840px) {
+    .infoContext {
+        flex-direction: column;
+        padding-bottom: 4rem;
+    }
+
+    .contextLeft, .contextRight {
+        width: 100%;
+    }
+
+    .contextButtons {
+        margin-bottom: 5rem;
+    }
+
+    .infoContainerBanner h1 {
+        font-size: 2rem;
+    }
+
+    .infoContainerBanner h2 {
+        font-size: 0.9rem;
+    }
+
+    .infoContainerBanner p {
+        font-size: 0.9rem;
+    }
+
+    .infoContainerBanner p img {
+        height: 0.8rem;
+    }
+
+    .bundlePricing h3 {
+        font-size: 2rem;
+    }
+
+    .bundlePricing button {
+        height: 45px;
+    }
+
+    .infoContainerBanner {
+        margin-bottom: 4rem;
+    }
+
+}
+
+@media(max-width: 768px) {
+    .courseCard {
+        flex-direction: column-reverse;
+        height: 600px;
+    }
+
+    .cardContext {
+        height: fit-content;
+    }
+
+    .courseCard img {
+        width: 100%;
+        height: 40%;
+        
+    }
+
+    .courseCard h1 {
+        margin-bottom: 1.5rem;
+        width: 100%;
+    }
+
+    .courseCard ul {
+        margin-bottom: 1.5rem;
+    }
+
+    .moduleTitle h2 {
+        font-size: 1.1rem;
+    }
+
+    .moduleInfo {
+        width: 100%;
+    }
+}
+
+@media(max-width: 600px) {
+    .cardContext {
+        padding: 1rem 1.5rem;
+    }
+
+    .cardContext h1 {
+        font-size: 1.8rem;
+    }
+
+    .contextLeft p, .contextRight p {
+        font-size: 1rem;
+    }
+
+    .infoContext h1 {
+        margin-bottom: 1.5rem;
+    }
+}
+
+@media(max-width: 460px) {
+    .courseCard {
+        height: fit-content;
+    }
+
+    .pricingContainer p {
+        font-size: 1.5rem;
+    }
+
+    .cardContext ul {
+        font-size: 0.8rem;
+    }
+
+    .pricingContainer button {
+        height: 40px;
+    }
+
+    .infoContainerBanner {
+        padding: 2rem 1rem;
+    }
+
+    .infoContainerBanner h1 {
+        font-size: 1.8rem;
+    }
+
+    .infoContainerBanner p {
+        justify-content: flex-start;
+        margin-bottom: 0.5rem;
+    }
+
+    .bundlePricing {
+        flex-direction: column-reverse;
+        align-items: flex-start;
+        row-gap: 1rem;
+    }
+
+    .bundlePricing button {
+        width: 70%;
+    }
+
+    .moduleTitle h2 {
+        font-size: 1rem;
+    }
+
+    .moduleInfo {
+        font-size: 0.9rem;
+    }
+}
+

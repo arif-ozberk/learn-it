@@ -1,0 +1,55 @@
+.coursesPageContainer {
+    padding-top: 15rem;
+    height: fit-content;
+}
+
+.pageHeadings {
+    margin-bottom: 5rem;
+}
+
+.coursesContainer {
+    display: flex;
+    flex-direction: column;
+    row-gap: 7rem;
+    margin-bottom: 7rem;
+}
+
+.coursesRow {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* ****************Media Queries**************** */
+
+@media(max-width: 1250px) {
+    .coursesRow {
+        flex-direction: column;
+        row-gap: 5rem;
+    }
+}
+
+@media(max-width: 768px) {
+    .pageHeadings {
+        margin-bottom: 2.5rem;
+    }
+
+    .coursesPageContainer {
+        padding-top: 10rem;
+    }
+}
+
+@media(max-width: 600px) {
+    .coursesContainer {
+        margin-bottom: 5rem;
+    }
+} 
+
+@media(max-width: 425px) {
+    .coursesRow {
+        row-gap: 3rem;
+    }
+
+    .coursesPageContainer {
+        padding-top: 8rem;
+    }
+}

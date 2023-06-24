@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Montserrat", sans-serif;
+	scroll-behavior: smooth;
+}
+
+/* Color Palette */
+:root {
+	--dark-green: #204d51;
+	--ice: #b4f6d0;
+	--yellow: #f5fa9b;
+	--white: #f8f8f8;
+	--light-blue: #aecfff;
+}
+
+
+/* App Container */
+.App {
+	background-color: var(--dark-green);
+	height: fit-content;
+}
+
+
+/* Project Templates */
+.main-container {
+	max-width: 1400px;
+	margin: 0 auto;
+}
+
+@media(max-width: 1440px) {
+	.main-container {
+		width: 90%;
+	}
+}
+
+.explore-button {
+	text-decoration: none;
+	color: var(--dark-green);
+	background-color: var(--yellow);
+	padding: 1em 2em;
+	border-radius: 3em;
+	font-size: 1rem;
+	font-weight: 600;
+	transition: border-radius 0.2s ease;
+	display: flex;
+	width: fit-content;
+}
+
+.explore-button:hover {
+	border-radius: 10px;
+}
+
+.main-heading {
+	color: var(--white);
+	font-size: 3.5rem;
+	font-weight: 400;
+	margin-bottom: 1.5rem;
+}
+
+.main-heading span {
+	color: var(--yellow);
+}
+
+.small-heading {
+	color: var(--ice);
+	font-size: 1.3rem;
+	font-weight: 400;
+}
+
+@media(max-width:950px) {
+	.main-heading {
+		font-size: 3rem;
+	}
+
+	.small-heading {
+		font-size: 1.1rem;
+	}
+}
+
+@media(max-width:700px) {
+	.main-heading {
+		font-size: 2.5rem;
+	}
+
+	.small-heading {
+		font-size: 1rem;
+	}
+}
+
+@media(max-width:582px) {
+	.main-heading {
+		font-size: 2.2rem;
+		margin-bottom: 1rem;
+	}
+
+	.small-heading {
+		font-size: 0.9rem;
+	}
+}
+
+@media(max-width:350px) {
+	.main-heading {
+		font-size: 2rem;
+		margin-bottom: 1rem;
+	}
+
+	.small-heading {
+		font-size: 0.8rem;
+	}
+}

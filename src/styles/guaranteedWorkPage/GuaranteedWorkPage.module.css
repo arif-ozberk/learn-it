@@ -1,0 +1,37 @@
+.guaranteedWorkPage {
+    padding-top: 12rem;
+}
+
+.guaranteedHeading {
+    margin-bottom: 3rem;
+}
+
+.guaranteedContext p {
+    margin-bottom: 2rem;
+}
+
+.guaranteedContext img {
+    width: 100%;
+    border-radius: 6px;
+    height: 550px;
+    object-fit: cover;
+    margin: 3rem 0 5rem 0;
+}
+
+@media(max-width: 768px) {
+    .guaranteedContext img {
+        height: 400px;
+    }
+}
+
+@media(max-width: 600px) {
+
+    .guaranteedWorkPage {
+        padding-top: 9rem;
+    }
+
+    .guaranteedContext img {
+        height: 300px;
+        margin: 1rem 0 3rem;
+    }
+}

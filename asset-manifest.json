@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/learn-it/static/css/main.b5e82c2d.css",
-    "main.js": "/learn-it/static/js/main.70d02518.js",
+    "main.js": "/learn-it/static/js/main.b50a0232.js",
     "static/media/klarna-logo.png": "/learn-it/static/media/klarna-logo.8804d65d6eb21b06d1f9.png",
     "static/media/trust-pilot-img.png": "/learn-it/static/media/trust-pilot-img.ffb3e0dd60bc36ef417b.png",
     "static/media/chance-img.svg": "/learn-it/static/media/chance-img.38cf5b76b80f61f387b86963a6ec4f7e.svg",
@@ -12,10 +12,10 @@
     "static/media/knowledge-img.svg": "/learn-it/static/media/knowledge-img.a02c16771c1e6a7cb9fd0ba7cee6395b.svg",
     "index.html": "/learn-it/index.html",
     "main.b5e82c2d.css.map": "/learn-it/static/css/main.b5e82c2d.css.map",
-    "main.70d02518.js.map": "/learn-it/static/js/main.70d02518.js.map"
+    "main.b50a0232.js.map": "/learn-it/static/js/main.b50a0232.js.map"
   },
   "entrypoints": [
     "static/css/main.b5e82c2d.css",
-    "static/js/main.70d02518.js"
+    "static/js/main.b50a0232.js"
   ]
 }
